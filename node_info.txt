@@ -1,0 +1,18 @@
+Nodejs
+------------------
+1) require()
+2) createServer() 
+3) write()
+4) end()
+5) listen()
+6) node routing 
+	if(req.url==='/')
+7) nodemon (re-start server after change )
+	1) npm install nodemon
+	2) config in .json
+8) __dirname : find the directory path
+9) createReadStream() 		// read  current path
+10) pipe()   // filter file extersion 
+11) 
+
+	
